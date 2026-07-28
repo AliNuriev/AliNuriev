@@ -1,16 +1,26 @@
-## Hi there 👋
+**Hi, I'm Ali** 👋
 
-<!--
-**AliNuriev/AliNuriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business analytics student at the University of Kent, with a working background in audit and finance. I'm now building the technical side of analytics from the ground up — Python first, then SQL, data handling and visualisation.
 
-Here are some ideas to get you started:
+_What I'm doing right now_
+📚 Working through Python Essentials 2 (Cisco Networking Academy) — Essentials 1 completed
+🎓 MSc Business Analytics with Placement, University of Kent (2025 – present)
+🛠️ Writing my first projects — this profile is where they'll land as I go
+Where I'm coming from
+Assistant Auditor - EY
+Financial Analyst Intern - Dentons
+BSc International Finance - Financial University, Moscow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've spent my career reading numbers. Now I want to be the one who pulls, cleans and models them too.
+
+_Roadmap_
+Now	Next	After that
+Python fundamentals	SQL · pandas · NumPy	Power BI / Tableau · statistics · ML basics
+Goal
+
+To work as an analyst who understands the business behind the data — not just the syntax.
+
+**Reach me**
+💼 LinkedIn: www.linkedin.com/in/ali-nuriev
+📫 Email: al.nuriev@yahoo.com
+📍 Canterbury, UK - open to placement and internship opportunities
