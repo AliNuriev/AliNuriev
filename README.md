@@ -23,6 +23,7 @@ I've spent my career reading numbers. Now I want to be the one who pulls, cleans
 To work as an analyst who understands the business behind the data — not just the syntax.
 
 **Reach me**
+
 💼 LinkedIn: www.linkedin.com/in/ali-nuriev
 
 📫 Email: al.nuriev@yahoo.com
