@@ -1,6 +1,6 @@
 **Hi, I'm Ali** 👋
 
-Business analytics student at the University of Kent, with a working background in audit and finance. I'm now building the technical side of analytics from the ground up — Python first, then SQL, data handling and visualisation.
+Business analytics student at the University of Kent, with a working background in audit and finance. I'm now building the technical side of analytics from the ground up - Python first, then SQL, ML and AI engineering are final bosses.
 
 _What I'm doing right now_
 
