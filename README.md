@@ -28,4 +28,4 @@ To work as an analyst who understands the business behind the data — not just 
 
 📫 Email: al.nuriev@yahoo.com
 
-📍 Canterbury, UK - open to placement and internship opportunities
+📍 Canterbury, UK - open to placement, internship and remote opportunities
