@@ -16,8 +16,6 @@ _Where I'm coming from_
 
 2) Financial Analyst Intern - Dentons
 
-3) BSc International Finance - Financial University, Moscow
-
 I've spent my career reading numbers. Now I want to be the one who pulls, cleans and models them too.
 
 To work as an analyst who understands the business behind the data — not just the syntax.
