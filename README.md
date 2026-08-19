@@ -1,4 +1,4 @@
-My name is Ali. I'm a business analytics student at the University of Kent, moving from finance into data.
+My name is Ali Nuriev. I'm a business analytics student at the University of Kent, moving from finance into data.
 
 🐍 Finished [CISCO Python Essentials 1 & 2](https://www.netacad.com/courses/python-essentials-1) - now building my own projects instead of following tutorials
 
